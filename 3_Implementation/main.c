@@ -1,9 +1,9 @@
 /**
  * @file main.c
- * @author vanka vinaya kumar
- * @brief This is Automatic water level control system
+ * @author Samanvitha Reddy Padhuri
+ * @brief This is water level control system
  * @version 0.1
- * @date 2022-03-05
+ * @date 2022-04-17
  * 
  * @copyright Copyright (c) 2022
  * 

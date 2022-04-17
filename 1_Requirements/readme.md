@@ -48,6 +48,6 @@
 ## Best Methods To Be Followed
 
 * Used functions to decrease dependency on main function
-* Used Functions to accept the inputs from environmental comnditions and store the values which helped in creating easy design of the system.
+* Used Functions to accept the inputs from environmental conditions and store the values which helped in creating easy design of the system.
 * comments have been placed only wherever necessary to avoid confusions
 * Created header file so that the fuctions can be used else where ever required without any difficulty

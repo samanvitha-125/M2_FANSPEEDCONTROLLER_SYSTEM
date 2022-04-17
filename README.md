@@ -28,7 +28,8 @@
    <img src="https://api.codiga.io/public/badge/user/github/samanvitha-125?style=light" alt="codiga badge" />
 </a>
 
-![code inspector]()
+![code inspector](https://user-images.githubusercontent.com/62429376/163700445-fd50d5c4-541f-4da0-bb70-c68b4f4ffcf2.png)
+
 
 ## Folder Structure
 
@@ -37,9 +38,9 @@
 | 1_Requirements | Documents detailing requirements and research |
 | 2_Architecture |	Documents specifying design details |
 | 3_Implementation	| All code and documentation |
-| 4_TestPlan |	Documents with test plans and procedures |
+| 4_TestPlanAndOutput |	Documents with test plans and procedures |
 | 5_Report |	Report of the whole project |
-| 6_Images | Images of the Output |
+| 6_VideosAndImages | Images of the Output |
 
 ## Contributors List and Summary 
 
@@ -58,16 +59,14 @@
 
 | S No |	Challenge | Solution |
 | ------ | ----------- | --------- |
-| 1 | Implementation of SDLC and making UML diagrams |	Exploring them and linking with the architechture of my project |
+| 1 | Implementation of SDLC and making UML diagrams |	Exploring them and linking with the architecture of my project |
 | 2 |	issues in running test cases | specifying correct return values for functions |
 | 3 |	Issues in workflows |	fixed them by updating the path to all files correctly |
 
 ## GitHub Actions
 
 - Build using Make for CI
-- Unit testing 
 - Static code analysis using cppcheck
-- Dynamic Code analysis using Valgrind
 
 ## References
 

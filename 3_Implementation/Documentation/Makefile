@@ -1,40 +1,10 @@
-PROJECT_NAME = main
+DOXY_FILE = Doxygen
+BUILD_FILE = html
 
-SRC =src\Board.c\
-src\TakeTurn.c \
-src\Win_game.c \
-
-BUILD = build
-
-#INC=inc
-UNI=unity/unity.c
-
-INC	= inc\
--Iunity\
-
-TEST_SRC = test/test_record
-
-PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
-
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
-
-INCLUDE_LIBS = -lcunit
-
-PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
-
-.PHONY: run clean test doc 
-
-$(PROJECT_NAME).exe : $(SRC)
-	gcc -I $(INC) $(PROJECT_NAME).c $(SRC)  -o $(PROJECT_NAME).exe
-
-run: $(PROJECT_NAME).exe
-	$(PROJECT_NAME).exe
+FixPath = $(subst /,\,$1)
 
 doc:
-	make -C ./documentation
+	doxygen ./$(DOXY_FILE)
 
 clean:
-	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
-
-$(BUILD):
-	mkdir build
+	rm -rf $(call FixPath,$(BUILD_FILE)/*)

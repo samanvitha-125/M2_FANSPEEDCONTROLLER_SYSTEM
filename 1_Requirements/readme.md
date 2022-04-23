@@ -12,15 +12,17 @@
 
 ## Features
 
-![Features](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/1_Requirements/features.jpeg)
+![image](https://user-images.githubusercontent.com/62429376/164894783-dee5b958-d570-45a0-b124-204cf07e1b4d.png)
+
 
 ## SWOT ANALYSIS
 
-![Swot analysis](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/1_Requirements/SWOT%20Analysis.jpeg)
+![image](https://user-images.githubusercontent.com/62429376/164894788-01860ee4-f5c7-403b-9899-4f14dff6181d.png)
+
 
 ## 5W's and 1H
 
-![5W's and 1H](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/1_Requirements/5W1H.jpeg)
+![image](https://user-images.githubusercontent.com/62429376/164894838-86140adf-6384-41a0-ab03-ddb16a5b5b15.png)
 
 
 ## High-Level Requirements

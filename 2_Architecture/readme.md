@@ -1,7 +1,6 @@
 # Architecture 
 
-
-![block diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/Water_level_block_diagram.png)
+![image](https://user-images.githubusercontent.com/62429376/164894638-b505b829-e768-4e33-91c5-7e8ca0c827fd.png)
 
 
 ## LCD Display
@@ -38,7 +37,13 @@
 * This is a single toggle switch that toggles between automatic and manual mode.
 
 # FLOW DIAGRAM
-![Flow_Diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/water_flow.png)
+
+![image](https://user-images.githubusercontent.com/62429376/164894687-f6b14252-2800-48f2-a423-e25ff494f214.png)
+
 
 # BEHAVIORAL DIAGRAM
-![Bhehavioral diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/behavioral.png)
+
+![image](https://user-images.githubusercontent.com/62429376/164894697-0684afbf-05d4-4eb8-91a7-e26b0ea984c6.png)
+
+## STRUCTURAL DIAGRAM
+![image](https://user-images.githubusercontent.com/62429376/164894600-d285ddea-3d23-49c3-a17e-5ecd5986cb70.png)

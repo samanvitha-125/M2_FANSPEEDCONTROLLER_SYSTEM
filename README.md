@@ -12,15 +12,19 @@
 
 ## SDLC Activity Based Learning :
 
-
+| Linux | Cpp check | CI |
+| ---- | ------ | ----- |
+|[![Build Linux](https://github.com/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/actions/workflows/Linux.yml/badge.svg)](https://github.com/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/actions/workflows/Linux.yml) | [![Cpp-Check](https://github.com/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/actions/workflows/Cpp-check.yml/badge.svg)](https://github.com/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/actions/workflows/Cpp-check.yml) | [![CI](https://github.com/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/actions/workflows/CI.yml/badge.svg)](https://github.com/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/actions/workflows/CI.yml) |
 
 ## Codacy and Codiga Badges 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1cc53894ec746a2b0719d5ebdce3eb9)](https://www.codacy.com/gh/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
+| Codacy | 
+| ----- |
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1cc53894ec746a2b0719d5ebdce3eb9)](https://www.codacy.com/gh/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)|
 
-![Code QualityScore](https://api.codiga.io/project/32809/score/svg)
-
-![Code Grade](https://api.codiga.io/project/32809/status/svg)
+| Codiga Quality Score | Codiga Grade |
+| --------------- | ----------------- |
+| ![Code QualityScore](https://api.codiga.io/project/32809/score/svg) | ![Code Grade](https://api.codiga.io/project/32809/status/svg) |
 
 ## Code Inspector
 

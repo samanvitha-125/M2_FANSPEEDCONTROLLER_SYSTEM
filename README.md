@@ -16,6 +16,7 @@
 
 ## Codacy and Codiga Badges 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9c2ccfd9bca443519759fa71cda2e9c1)](https://app.codacy.com/gh/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM?utm_source=github.com&utm_medium=referral&utm_content=samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1cc53894ec746a2b0719d5ebdce3eb9)](https://www.codacy.com/gh/samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samanvitha-125/M2_WATERLEVELCONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
 
 ![Code QualityScore](https://api.codiga.io/project/32809/score/svg)

@@ -10,7 +10,7 @@
 * The Heater will generate the heat and an LCD will show requested the temperature.
 * The Project Consists of an ATmega328 microcontroller along with a temperature sensor, Pushbutton, Heat generator, LED and LCD, etc.
 
-## SDLC Activity Based Learning :
+## PDLC Activity Based Learning :
 
 | Linux | Cpp check | CI |
 | ---- | ------ | ----- |
@@ -63,7 +63,7 @@
 
 | S No |	Challenge | Solution |
 | ------ | ----------- | --------- |
-| 1 | Implementation of SDLC and making UML diagrams |	Exploring them and linking with the architecture of my project |
+| 1 | Implementation of PDLC and making UML diagrams |	Exploring them and linking with the architecture of my project |
 | 2 |	issues in running test cases | specifying correct return values for functions |
 | 3 |	Issues in workflows |	fixed them by updating the path to all files correctly |
 
